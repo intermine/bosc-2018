@@ -1,10 +1,19 @@
 # Handling integrated biological data using Python (or R) and InterMine
 ## GCCBOSC 2018
 
-Trainers: Daniela Butano • Leyla Ruzicka • Yo Yehudi
+
+### Trainers: 
+- Daniela Butano 
+- Leyla Ruzicka  
+- Yo Yehudi
+
 Workshop description: https://gccbosc2018.sched.com/event/Dn4G/handling-integrated-biological-data-using-python-or-r-and-intermine
 
 ### Schedule
+[schedule](schedule.md)
+
+### Requirements
+[requirements](requirements.md)
 
 ### Useful Links
 
