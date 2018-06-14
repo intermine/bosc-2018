@@ -3,7 +3,8 @@
 ## Timing: 09:00 - 11:30 AM 
 
 ### 09:00 - 09:30: Welcome + what is InterMine?  
-_Approx 30 mins, Leyla_
+_Approx 30 mins, Leyla_  
+
 A brief introduction to InterMine, including some basic UI demos. [Slides] TODO, add slides
 
 ### 09:30 - 09:40: Web Service API Introduction 
