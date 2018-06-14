@@ -19,6 +19,6 @@ _Compatability note: InterMine currently automatically generates Python 2.7 comp
 
 ## Option 3 - fallback - Jupyter Notebooks + Binder
 
-You can launch the python tutorials in a Jupyter notebook via [binder](http://mybinder.org).
+You can launch the python tutorials in a Jupyter notebook via [binder](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master). Just click on the button below! 
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master)
