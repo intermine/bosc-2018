@@ -4,41 +4,27 @@
 
 ### 09:00 - 09:30: Welcome + what is InterMine?  
 _Approx 30 mins, Leyla_
-
-- Post-it notes: 
-  - Stick notes to your monitor when...
-   - "need help please" - yellow note!
-   - "I've finished the exercise" - blue!
-  - Other notes: Jot down questions / ideas for feedback as you are going! 
-
-- A brief introduction to InterMine, including some basic UI demos.
-
+A brief introduction to InterMine, including some basic UI demos. [Slides] TODO, add slides
 
 ### 09:30 - 09:40: Web Service API Introduction 
 _Approx 10 mins, Dani_
 
-- What is an API? 
-- InterMine Web Service API Overview
-- Different ways to access a Web Service: get an URL to run from command line or use a client library
-- Token API
-- cURL examples: 
-    - Template
-    - Query
-    - Lists 
+What is an API and basic examples of accessing them
 
-### 09:40 - 10:10: First practical demo using code generation 
+### 09:40 - 10:10: Practical demo: using automatic code generation 
 _Approx 10 mins, Dani_
 
-- Download a script (e.g. a template result) and run from the command line, after changing permissions. If python3 remind to change print!
-- Helping anyone who has had trouble installing their dependencies. 
+Find an interesting query via the UI, and copy/paste the code to run it in a python script. We'll also help anyone who has had trouble installing their dependencies. 
 
 ### 10:10 - 11:10: More detailed use-cases. 
-- Use jupyter notebooks (via mybinder.org so no dependencies required).
-- Example: https://mybinder.org/v2/gh/yochannah/intermine-ws-python-docs/master inspiration
- 
+_Approx 60 mins, Yo_
 
-11.10 - 11.25: R Overview (15 mins, Dani)
+In-depth walkthrough of the code to create a query, with practical exercises. 
 
+### 11.10 - 11.25: R Overview 
+_Approx 15 mins, Dani_
 
+Running similar queries to the previous session, in R. 
 
-11.25 -11.30 Conclusions
+### 11.25 - 11.30: Conclusions
+
