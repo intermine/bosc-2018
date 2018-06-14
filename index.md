@@ -19,7 +19,7 @@ Workshop description: https://gccbosc2018.sched.com/event/Dn4G/handling-integrat
 
 #### Python
 
-- [API slides](https://docs.google.com/presentation/d/1sDBch32SgRJ8TY-OmlYYyTSCj6rei9nPf2XyLxUlusE/edit#slide=id.g33526a5d5d_0_34)
+- [API slides](https://docs.google.com/presentation/d/1dQAuY3c1rXM77J6VDHXWBvlh5-ipoQlKIWVtOVR5Zvc/edit?usp=sharing)
 - [Python tutorial](https://github.com/intermine/intermine-ws-python-docs)
 - [Python API docs](https://pythonhosted.org/intermine/)
 
