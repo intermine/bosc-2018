@@ -17,6 +17,8 @@ _Compatability note: InterMine currently automatically generates Python 2.7 comp
 - [Rstudio](https://www.rstudio.com/products/rstudio/download/#download)
 - [InterMineR](https://www.bioconductor.org/packages/release/bioc/html/InterMineR.html), the InterMine R library.
 
-## Option 3 - fallback - Jupyter
+## Option 3 - fallback - Jupyter Notebooks + Binder
 
-// todo - add link to mybinder.
+You can launch the python tutorials in a Jupyter notebook via [binder](http://mybinder.org).
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master)
