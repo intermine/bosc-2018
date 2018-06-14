@@ -13,7 +13,7 @@ _Compatability note: InterMine currently automatically generates Python 2.7 comp
 
 ### R (optional)
 
-- [R](https://cran.rstudio.com/)
+- [R](https://cran.rstudio.com/) (version 3.4.4)
 - [Rstudio](https://www.rstudio.com/products/rstudio/download/#download)
 - [InterMineR](https://www.bioconductor.org/packages/release/bioc/html/InterMineR.html), the InterMine R library.
 
