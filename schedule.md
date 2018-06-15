@@ -20,7 +20,7 @@ Find an interesting query via the UI, and copy/paste the code to run it in a pyt
 ### 10:10 - 11:10: More detailed use-cases. 
 _Approx 60 mins, Yo_
 
-In-depth walkthrough of the code to create a query, with [practical exercises](practical-exercises.md). 
+In-depth walkthrough of the code to create a query, with [practical exercises](python/practical-exercises.md). 
 
 ### 11.10 - 11.25: R Overview 
 _Approx 15 mins, Dani_
