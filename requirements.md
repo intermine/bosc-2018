@@ -17,7 +17,7 @@ _Compatability note: InterMine currently automatically generates Python 2.7 comp
 - [Rstudio](https://www.rstudio.com/products/rstudio/download/#download)
 - [InterMineR](https://www.bioconductor.org/packages/release/bioc/html/InterMineR.html), the InterMine R library.
 
-The R demos will be presented via jupyter notebook + python so a local copy of R is not mandatory. 
+The R demos will be presented via jupyter notebook + R so a local copy of R is not mandatory. 
 
 ## Option 3 - Fallback - Jupyter Notebooks + Binder
 
