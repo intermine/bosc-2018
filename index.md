@@ -7,13 +7,13 @@
 - Leyla Ruzicka  
 - Yo Yehudi
 
-Workshop description: https://gccbosc2018.sched.com/event/Dn4G/handling-integrated-biological-data-using-python-or-r-and-intermine
+[Workshop description on sched](https://gccbosc2018.sched.com/event/Dn4G/handling-integrated-biological-data-using-python-or-r-and-intermine) 
 
 ### Schedule
-[schedule](/schedule.md)
+[Schedule](/schedule.md)
 
 ### Requirements
-[requirements](/requirements.md)
+[Requirements](/requirements.md)
 
 ### Useful Links
 
