@@ -10,10 +10,10 @@
 Workshop description: https://gccbosc2018.sched.com/event/Dn4G/handling-integrated-biological-data-using-python-or-r-and-intermine
 
 ### Schedule
-[schedule](/schedule)
+[schedule](/schedule.md)
 
 ### Requirements
-[requirements](/requirements)
+[requirements](/requirements.md)
 
 ### Useful Links
 
