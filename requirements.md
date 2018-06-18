@@ -10,6 +10,7 @@ _Compatability note: InterMine currently automatically generates Python 2.7 comp
 
 - Python 2.7 (we'd recommend Anaconda for [Python 2.7](https://www.anaconda.com/download/#linux))
 - The [InterMine python library](https://github.com/intermine/intermine-ws-python) [![Anaconda-Server Badge](https://anaconda.org/bioconda/intermine/badges/installer/conda.svg)](https://conda.anaconda.org/bioconda)
+- Optional: [Jupyter Notebook](http://jupyter.org/install.html) - this isn't necessary if you installed Anaconda at the first step.
 
 ### R (optional)
 
