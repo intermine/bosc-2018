@@ -1,10 +1,6 @@
 # Handling integrated biological data using InterMine - Technical requirements
 
-## Option 1 - Virtual Machine
-
-We're working on building a virtual machine that has everything you might need. TODO: ADD LINK
-
-## Option 2 - install your own... 
+## Option 1 - install your own... 
 
 ### Python
 
@@ -22,7 +18,7 @@ _Compatability note: InterMine currently automatically generates Python 2.7 comp
 
 The R demos will be presented via jupyter notebook + R so a local copy of R is not mandatory. 
 
-## Option 3 - Fallback - Jupyter Notebooks + Binder
+## Option 2 - Fallback - Jupyter Notebooks + Binder
 
 You can launch the python tutorials in a Jupyter notebook via [binder](https://mybinder.org/v2/gh/intermine/intermine-ws-python-docs/master). Just click on the button below! 
 
