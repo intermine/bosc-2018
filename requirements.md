@@ -1,3 +1,5 @@
+# Handling integrated biological data using InterMine - Technical requirements
+
 ## Option 1 - Virtual Machine
 
 We're working on building a virtual machine that has everything you might need. TODO: ADD LINK
