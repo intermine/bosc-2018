@@ -1,7 +1,7 @@
 
 library(InterMineR)
 
-im <- initInterMine(mine=listMines()["HumanMine"], token="S106G3rfG927hfu3E3D3")
+im <- initInterMine(mine=listMines()["HumanMine"], token="{your token}")
 
 expressedAdipose = newQuery()
 
@@ -57,7 +57,6 @@ head(query_results2)
 interactors <- query_results2[, "Gene.interactions.participant2.symbol"]
 
 human.widgets = as.data.frame(getWidgets(im))
-head(human.widgets)
 
 subset(human.widgets, widgetType == 'enrichment' & targets == "Gene")
 
