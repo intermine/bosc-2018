@@ -1,1 +1,2 @@
-install.packages("InterMineR")
+source("https://bioconductor.org/biocLite.R")
+biocLite("InterMineR")
