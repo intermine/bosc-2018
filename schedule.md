@@ -25,7 +25,7 @@ In-depth walkthrough of the code to create a query, with [practical exercises](p
 ### 11.00 - 11.25: R Overview 
 _Approx 20-25 mins, Dani_
 
-Running similar queries to the previous session, in R. [Slides](https://docs.google.com/presentation/d/1Rs2UQrReE29kgw_MoCV_pELuyDFa6ycplBZ6ZBgwB6U/edit?usp=sharing)[comment]: <> ( [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/intermine/bosc-2018/master?filepath=R))
+Running similar queries to the previous session, in R. [Slides](https://docs.google.com/presentation/d/1Rs2UQrReE29kgw_MoCV_pELuyDFa6ycplBZ6ZBgwB6U/edit?usp=sharing)
 
 ### 11.25 - 11.30: Conclusions
 
