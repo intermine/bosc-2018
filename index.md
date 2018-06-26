@@ -17,6 +17,8 @@
 
 ### Useful Links
 
+- Interactive InterMine API docs: http://iodocs.apps.intermine.org/ 
+
 #### Python
 
 - [API slides](https://docs.google.com/presentation/d/1dQAuY3c1rXM77J6VDHXWBvlh5-ipoQlKIWVtOVR5Zvc/edit?usp=sharing)
