@@ -34,7 +34,7 @@
 
 #### Other
 
-- Interactive InterMine API docs: http://iodocs.apps.intermine.org/ 
+- [Interactive InterMine API docs](http://iodocs.apps.intermine.org/)
 
 ### Which InterMine is for me? 
 - [InterMine Registry](http://registry.intermine.org/)
