@@ -17,8 +17,6 @@
 
 ### Useful Links
 
-- Interactive InterMine API docs: http://iodocs.apps.intermine.org/ 
-
 #### Python
 
 - [API slides](https://docs.google.com/presentation/d/1dQAuY3c1rXM77J6VDHXWBvlh5-ipoQlKIWVtOVR5Zvc/edit?usp=sharing)
@@ -34,6 +32,9 @@
     - [Genomic visualisations with FlyMine](https://github.com/intermine/InterMineR/blob/master/vignettes/FlyMine_Genomic_Visualizations.Rmd)
     - [Enrichment and visualisation](https://github.com/intermine/InterMineR/blob/master/vignettes/Enrichment_Analysis_and_Visualization.Rmd)
 
+#### Other
+
+- Interactive InterMine API docs: http://iodocs.apps.intermine.org/ 
 
 ### Which InterMine is for me? 
 - [InterMine Registry](http://registry.intermine.org/)
