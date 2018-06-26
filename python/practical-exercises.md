@@ -2,7 +2,7 @@
 
 ## Getting started
 
- - [Workshop workflow](https://mybinder.org/v2/gh/intermine/bosc-2018/master?filepath=python/unsolved-exercises/Workshop_Workflow1.ipynb) - replicate the UI usecase via the API. [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/intermine/bosc-2018/master?filepath=python/python/unsolved-exercises/Workshop_Workflow1.ipynb)
+ - [Workshop workflow](https://mybinder.org/v2/gh/intermine/bosc-2018/master?filepath=python/unsolved-exercises/Workshop_Workflow1.ipynb) - replicate the UI usecase via the API. [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/intermine/bosc-2018/master?filepath=python/unsolved-exercises/Workshop_Workflow1.ipynb)
 
 ## Exercises: Looking at ways to:
 1. Find which InterMine has _your_ preferred organisms [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/intermine/bosc-2018/master?filepath=python/unsolved-exercises/00-tutorial.ipynb)
