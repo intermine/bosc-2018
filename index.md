@@ -20,7 +20,9 @@
 #### Python
 
 - [API slides](https://docs.google.com/presentation/d/1dQAuY3c1rXM77J6VDHXWBvlh5-ipoQlKIWVtOVR5Zvc/edit?usp=sharing)
-- [Python tutorial](https://github.com/intermine/intermine-ws-python-docs)
+- Python Tutorial: 
+  - [Python tutorial, empty exercises](http://www.intermine.org/bosc-2018/python/practical-exercises)
+  - [Python tutorial, with answers](https://github.com/intermine/intermine-ws-python-docs)
 - [Python API docs](http://intermine.org/intermine-ws-python/intermine.html#module-intermine.registry)
 
 #### R
