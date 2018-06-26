@@ -5,7 +5,7 @@
 ### 09:00 - 09:30: Welcome + what is InterMine?  
 _Approx 30 mins, Leyla_  
 
-A brief introduction to InterMine, including some basic UI demos. [Slides] TODO, add slides
+A brief introduction to InterMine, including some basic UI demos. 
 
 ### 09:30 - 09:40: Web Service API Introduction 
 _Approx 10 mins, Dani_
