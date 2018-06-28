@@ -35,6 +35,7 @@
 #### Other
 
 - [Interactive InterMine API docs](http://iodocs.apps.intermine.org/)
+- [InterMine UI intro slides](https://docs.google.com/presentation/d/1HLY5iiIKqoXPpwgTeB7BfG-2YNbKk2a3q5OTkJ6C9Ag/edit?ts=5b3410d9#slide=id.p1)
 
 ### Which InterMine is for me? 
 - [InterMine Registry](http://registry.intermine.org/)
